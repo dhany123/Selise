@@ -48,8 +48,8 @@
 
 			<!-- 3rd column -->
 			<div class="column">
-				<a href="" class="info">About Us</a>
-				<a href="" class="info">Contact Us</a>
+				<a href="" class="info">About ME</a>
+				<a href="" class="info">Contact ME</a>
 				<a href="" class="info">Privacy Policy</a>
 				<a href="" class="info">FAQ</a>
 			</div>
