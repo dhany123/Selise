@@ -4,13 +4,13 @@
 			<div class="feature">
 				<i class="fas fa-bell fa-2x" style="color: orange;"></i>
 				<p class="iconName">Smart Notification</p>
-				<p class="iconCaption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+				<p class="iconCaption">It notifies you automatically when something changes.</p>
 			</div>
 
 			<div class="feature">
 				<i class="fas fa-tachometer-alt fa-2x" style="color: pink;"></i>
 				<p class="iconName">Clean UI Design</p>
-				<p class="iconCaption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+				<p class="iconCaption">It has minimal design that will not hurt your eyes.</p>
 			</div>
 		</div>
 
@@ -19,13 +19,13 @@
 			<div class="feature">
 				<i class="fas fa-battery-full fa-2x" style="color: blue;"></i>
 				<p class="iconName">Battery Saver</p>
-				<p class="iconCaption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+				<p class="iconCaption">Have a long lasting life of battery.</p>
 			</div>
 
 			<div class="feature">
 				<i class="fas fa-paper-plane fa-2x" style="color: green;"></i>
 				<p class="iconName">Fast Performance</p>
-				<p class="iconCaption">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+				<p class="iconCaption">It loads faster.</p>
 			</div>					
 					
 		</div>
